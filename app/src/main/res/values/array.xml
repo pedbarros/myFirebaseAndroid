@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="genre">
+        <item>Celtic Pop</item>
+        <item>British Folk</item>
+        <item>Stride</item>
+        <item>Pagode</item>
+        <item>Forro</item>
+    </string-array>
+</resources>
